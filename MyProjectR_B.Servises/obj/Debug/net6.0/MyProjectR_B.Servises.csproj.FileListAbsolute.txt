@@ -1,0 +1,65 @@
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.AssemblyReference.cache
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.AssemblyInfoInputs.cache
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.AssemblyInfo.cs
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.CoreCompileInputs.cache
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.deps.json
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.runtimeconfig.json
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.dll
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.pdb
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Recources.dll
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Repositories.dll
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Recources.pdb
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Repositories.pdb
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.CopyComplete
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.dll
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\refint\MyProjectR_B.Servises.dll
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.pdb
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.genruntimeconfig.cache
+Y:\Groups\1\דרוק הדסה בתיה\פרוייקט גמר- סמינר\בתיה דרוק ורבקה רפפורט\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\ref\MyProjectR_B.Servises.dll
+Y:\Groups\1\דרוק הדסה בתיה\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.AssemblyReference.cache
+Y:\Groups\1\דרוק הדסה בתיה\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\דרוק הדסה בתיה\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.AssemblyInfoInputs.cache
+Y:\Groups\1\דרוק הדסה בתיה\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.AssemblyInfo.cs
+Y:\Groups\1\דרוק הדסה בתיה\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.CoreCompileInputs.cache
+Y:\Groups\1\דרוק הדסה בתיה\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.dll
+Y:\Groups\1\דרוק הדסה בתיה\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\refint\MyProjectR_B.Servises.dll
+Y:\Groups\1\דרוק הדסה בתיה\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.AssemblyInfo.cs
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.dll
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\refint\MyProjectR_B.Servises.dll
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.deps.json
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.runtimeconfig.json
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.dll
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Recources.dll
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Repositories.dll
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Recources.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Repositories.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.CopyComplete
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.genruntimeconfig.cache
+C:\Users\User\Desktop\חדש פרקטיקום\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\ref\MyProjectR_B.Servises.dll
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.deps.json
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.runtimeconfig.json
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.dll
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Servises.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Recources.dll
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Repositories.dll
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Recources.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\bin\Debug\net6.0\MyProjectR_B.Repositories.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.AssemblyInfo.cs
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.csproj.CopyComplete
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.dll
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\refint\MyProjectR_B.Servises.dll
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.pdb
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\MyProjectR_B.Servises.genruntimeconfig.cache
+C:\Users\User\Desktop\חדש פרקטיקום\string\MyProjectR_B\MyProjectR_B.Servises\obj\Debug\net6.0\ref\MyProjectR_B.Servises.dll
